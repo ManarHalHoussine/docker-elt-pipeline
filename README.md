@@ -33,6 +33,3 @@ The Python script performs the following steps:
 - PostgreSQL
 - Python
 - pg_dump / psql
-
-
-## Project Structure
