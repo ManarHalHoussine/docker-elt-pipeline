@@ -14,5 +14,3 @@ The system is composed of four containers:
 - **destination_postgres** → PostgreSQL database where the data is loaded  
 - **elt_script** → Python container responsible for extracting and loading the data  
 - **dbt** → Transformation layer that builds analytics models from the loaded data  
-
-Pipeline flow:
